@@ -1,0 +1,25 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+         int num1 = 2;
+         int num2 = 13;
+         System.out.println(num1 + num2);
+         System.out.println(num1 * num2);
+         System.out.println(num1 < num2);
+         String Fname = "Nawaf";
+         String Lname = "AlAfasi";
+         System.out.println(Fname + " " + Lname);
+         // Trying my luck
+         if (num1 > num2){
+             System.out.println(num1);
+         }else{
+             System.out.println(num2);
+         }
+
+       
+}          
+     
+     
+     
+         
+
